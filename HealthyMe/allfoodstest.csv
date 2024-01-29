@@ -1,0 +1,11 @@
+﻿column1,name,serving_size,calories,total_fat,cholesterol,sodium,protein,histidine,isoleucine,leucine,lysine,methionine,phenylalanine,threonine,valine,fatty_acids_total_trans
+0,Cornstarch,100 g,381,0.1g,0,9.00 mg,0.26 g,0.008 g,0.010 g,0.036 g,0.006 g,0.006 g,0.013 g,0.009 g,0.014 g,0.00 mg
+1,Nuts pecans,100 g,691,72g,0,0.00 mg,9.17 g,0.262 g,0.336 g,0.598 g,0.287 g,0.183 g,0.426 g,0.306 g,0.411 g,0.00 mg
+2,Eggplant raw,100 g,25,0.2g,0,2.00 mg,0.98 g,0.023 g,0.045 g,0.064 g,0.047 g,0.011 g,0.043 g,0.037 g,0.053 g,0.00 mg
+3,Teff uncooked,100 g,367,2.4g,0,12.00 mg,13.30 g,0.301 g,0.501 g,1.068 g,0.376 g,0.428 g,0.698 g,0.510 g,0.686 g,0
+4,Sherbet orange,100 g,144,2g,1mg,46.00 mg,1.10 g,0,0,0,0,0,0,0,0,1.00 mg
+5,Cauliflower raw,100 g,25,0.3g,0,30.00 mg,1.92 g,0.056 g,0.071 g,0.106 g,0.217 g,0.020 g,0.065 g,0.076 g,0.125 g,0.00 mg
+6,Taro leaves raw,100 g,42,0.7g,0,3.00 mg,4.98 g,0.114 g,0.260 g,0.392 g,0.246 g,0.079 g,0.195 g,0.167 g,0.256 g,0.00 mg
+7,Lamb raw ground,100 g,282,23g,73mg,59.00 mg,16.56 g,0.524 g,0.799 g,1.288 g,1.462 g,0.425 g,0.674 g,0.709 g,0.893 g,73.00 mg
+8,Cheese camembert,100 g,300,24g,72mg,842.00 mg,19.80 g,0.683 g,0.968 g,1.840 g,1.766 g,0.565 g,1.105 g,0.717 g,1.279 g,72.00 mg
+9,Vegetarian fillets,100 g,290,18g,0,490.00 mg,23.00 g,0,0,0,0,0,0,0,0,0.00 mg
